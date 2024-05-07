@@ -1,0 +1,53 @@
+package pe.master.machines.applyDigital.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val ColorWhite = Color(0xFFFFFFFF)
+val ColorBlack = Color(0xFF000000)
+
+val Turquoise50 = Color(0xFFEAFFFF)
+val Turquoise100 = Color(0xFFD6FFFF)
+val Turquoise200 = Color(0xFFABEFEE)
+val Turquoise300 = Color(0xFF78D4D3)
+val Turquoise400 = Color(0xFF47BAB9)
+val Turquoise500 = Color(0xFF0AAEA5)
+val Turquoise600 = Color(0xFF0DA098)
+val Turquoise700 = Color(0xFF0A827C)
+val Turquoise800 = Color(0xFF086B66)
+val Turquoise900 = Color(0xFF075551)
+
+val Orange50 = Color(0xFFFFE2D0)
+val Orange100 = Color(0xFFFFC19A)
+val Orange200 = Color(0xFFFFA46A)
+val Orange300 = Color(0xFFFF8F4A)
+val Orange400 = Color(0xFFFF7C2C)
+val Orange500 = Color(0xFFFF721C)
+val Orange600 = Color(0xFFE66718)
+val Orange700 = Color(0xFFCA5914)
+val Orange800 = Color(0xFFA24810)
+val Orange900 = Color(0xFF71330D)
+
+val BlueGray50 = Color(0xFFF8FAFC)
+val BlueGray100 = Color(0xFFF1F5F9)
+val BlueGray200 = Color(0xFFE5EDF9)
+val BlueGray300 = Color(0xFFB8C8DF)
+val BlueGray400 = Color(0xFF94A3B8)
+val BlueGray500 = Color(0xFF64748B)
+val BlueGray600 = Color(0xFF475569)
+val BlueGray700 = Color(0xFF334155)
+val BlueGray800 = Color(0xFF1E293B)
+val BlueGray900 = Color(0xFF0F172A)
+
+val Red50 = Color(0xFFFEF2F2)
+val Red100 = Color(0xFFFEE2E2)
+val Red200 = Color(0xFFFECACA)
+val Red300 = Color(0xFFFCA5A5)
+val Red400 = Color(0xFFF87171)
+val Red500 = Color(0xFFEF4444)
+val Red600 = Color(0xFFDC2626)
+val Red700 = Color(0xFFB91C1C)
+val Red800 = Color(0xFF991B1B)
+val Red900 = Color(0xFF7F1D1D)
+
+val OverlayDark = Color(0xFF20000000)
+val OverlayLight = Color(0xFF33FFFFFF)
