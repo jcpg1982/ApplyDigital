@@ -1,5 +1,7 @@
 # Nombre de la Aplicación
 
+New Notices
+
 ## Descripción
 
 Esta aplicación para Android está diseñada para ofrecer a los usuarios una experiencia de lectura cómoda y organizada. 
